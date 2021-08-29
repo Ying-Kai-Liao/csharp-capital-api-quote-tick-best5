@@ -1,0 +1,14 @@
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\bin\Debug\Future2.exe.config
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\bin\Debug\Future2.exe
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\bin\Debug\Future2.pdb
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.csproj.AssemblyReference.cache
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Interop.SKCOMLib.dll
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.csproj.ResolveComReference.cache
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.FormAccount.resources
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.FormMaster.resources
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.FormQuote.resources
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.Properties.Resources.resources
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.csproj.GenerateResource.cache
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.exe
+C:\Users\Mark\Downloads\csharp-capital-api-quote-tick-best5\Future2\obj\Debug\Future2.pdb
